@@ -31,7 +31,7 @@
     "font-awesome-icons": "^1.4.3",
     "hostbyname": "^0.1.0",
     "js-search": "^1.4.2",
-    "local-devices": "^2.0.0",
+    "local-devices": "^3.0.0",
     "material-design-icons": "^3.0.1",
     "network-list": "^1.1.5",
     "node-sass": "^4.12.0",
